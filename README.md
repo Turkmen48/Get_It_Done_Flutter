@@ -5,7 +5,7 @@ A app that allows you to create to do lists with modern design. The theme is dyn
 
 
 
-## Ekran Görüntüleri
+## Screenshots
 <img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/1.1en.png" width="500" height="700">
 <img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/2.1en.png" width="500" height="700">
 <img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/3.1en.png" width="500" height="700">
@@ -13,5 +13,5 @@ A app that allows you to create to do lists with modern design. The theme is dyn
 
 
 
-## Lisans
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
