@@ -10,7 +10,7 @@ class ItemsData with ChangeNotifier {
   List<String> _itemsAsString = [];
 
   final List<Item> _items = [
-    // Item(title: "Peynir Al"),
+    //Item(title: "Peynir Al"),
     // Item(title: "Ekmek Al"),
     // Item(title: "Çöpü At"),
     // Item(title: "Flutter Çalış")

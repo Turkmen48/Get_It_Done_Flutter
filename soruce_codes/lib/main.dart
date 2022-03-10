@@ -46,7 +46,7 @@ class SplashScreenPage extends StatelessWidget {
     ];
     return SplashScreenView(
       navigateRoute: const HomePage(),
-      duration: Duration(seconds: 1),
+      duration: Duration(seconds: 5),
       text: ColorizeAnimatedText(
         "Get It Done",
         speed: const Duration(seconds: 1),

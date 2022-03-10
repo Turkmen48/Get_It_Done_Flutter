@@ -33,8 +33,8 @@ class ColorThemeData with ChangeNotifier {
     notifyListeners();
   }
 
-  bool get isGreen => _isGreen!;
-  ThemeData get selectedThemeData => _isGreen! ? _greenTheme : _redTheme;
+  bool get isGreen => _isGreen ?? false;
+  ThemeData get selectedThemeData => _isGreen ?? true ? _greenTheme : _redTheme;
 
   Future<void> createPrefObject() async {
     _sharedPref = await SharedPreferences.getInstance();
