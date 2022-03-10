@@ -10,6 +10,8 @@ Yapılacaklar listesi (to do) oluşturmanızı sağlayan bir mobil uygulama. Din
 <img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/2.1.png" width="500" height="700">
 <img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/3.1.png" width="500" height="700">
 <img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/4.1.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/5.1.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/Get_It_Done_Flutter/blob/main/screenshots/6.1.png" width="500" height="700">
 
 
 
